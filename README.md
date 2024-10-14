@@ -24,8 +24,9 @@ Aprofundando os meus estudos em data science e machine learning,fiz um modelo de
 # Modelagem e implementacao do modelo
   ![image](https://github.com/user-attachments/assets/cbc92e19-fc5e-4d02-916d-75bc51f6f07d)
   ![image](https://github.com/user-attachments/assets/3dae1225-8152-48e0-84fa-ed54925a1604)
-    E temos um grafico representando as features mais "utilizadas"/importantes na visao do modelo 
+   ->   E temos um grafico representando as features mais "utilizadas"/importantes na visao do modelo 
     ![image](https://github.com/user-attachments/assets/a8407496-58e9-43be-9588-8d524412d208)
-#Conclusao
+    
+# Conclusao
  O modelo neste caso com o MAE de 15.11 nao é bom para o uso ja que é bem devazado,acredito que com o decorrer dos estudos posso voltar no projeto e melhorar este quesito,mas foi um otimo exercicio para me aprofundar nos estudos de data science e machine learning 
  Obrigado pela atencao!
