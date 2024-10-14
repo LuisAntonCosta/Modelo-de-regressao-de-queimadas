@@ -1,6 +1,6 @@
 # Modelo-de-previsao-de-queimadas
 
-Aprofundando os meus estudos em data science e machine learning,fiz um modelo de Random forest utilizando um dataset publico do INPE disponibilizado no Kaggle
+Aprofundando os meus estudos em data science e machine learning,fiz um modelo de Random forest utilizando um dataset publico do INPE disponibilizado no Kaggle que se trata das queimadas e riscos nos municipios brasileiros
 
 #  Importando as bibliotecas 
   ![image](https://github.com/user-attachments/assets/de8f54e5-b616-465c-b356-862a83bd5884)
