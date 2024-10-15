@@ -1,4 +1,4 @@
-# Modelo-de-previsao-de-queimadas
+# Modelo-de-regressao-de-queimadas
 
 Aprofundando os meus estudos em data science e machine learning,fiz um modelo de Random forest utilizando um dataset publico do INPE disponibilizado no Kaggle que se trata das queimadas e riscos nos municipios brasileiros
 
